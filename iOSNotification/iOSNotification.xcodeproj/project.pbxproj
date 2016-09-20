@@ -444,7 +444,7 @@
 				DEVELOPMENT_TEAM = RTCEZS3U4Z;
 				INFOPLIST_FILE = iOSNotification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yeapp.iOSNotification;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yeapp.HYLunarCalender;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -456,7 +456,7 @@
 				DEVELOPMENT_TEAM = RTCEZS3U4Z;
 				INFOPLIST_FILE = iOSNotification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yeapp.iOSNotification;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yeapp.HYLunarCalender;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

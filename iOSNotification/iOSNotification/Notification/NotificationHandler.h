@@ -13,4 +13,6 @@
 // 单例
 + (instancetype)sharedInstance;
 
+- (void)request;
+
 @end
