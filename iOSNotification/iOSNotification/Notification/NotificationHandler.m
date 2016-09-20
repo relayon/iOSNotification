@@ -64,7 +64,8 @@
 - (void)userNotificationCenter:(UNUserNotificationCenter *)center
 didReceiveNotificationResponse:(UNNotificationResponse *)response
          withCompletionHandler:(void(^)())completionHandler {
-    
+    NSString *actid = response.actionIdentifier;
+    NSLog(@"%s - %@", __FUNCTION__, actid);
 }
 
 @end
